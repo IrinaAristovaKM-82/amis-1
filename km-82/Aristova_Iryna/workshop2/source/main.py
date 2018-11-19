@@ -62,7 +62,6 @@ smth=[
 
 print(getBrand(smth))
 
-
 print(addOwner(smth, 'Boban', 'Mers'))
 
 print(getNames(smth))
